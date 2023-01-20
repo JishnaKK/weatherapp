@@ -1,0 +1,65 @@
+
+ body{
+    height: 100%;
+    width:100%;
+    margin: 0;
+    background-color: whitesmoke;
+    background-image: url('https://images.pexels.com/photos/1423601/pexels-photo-1423601.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    overflow: hidden;
+    
+}
+
+.btn{
+    width: 100px;
+}
+
+.outer{
+    width: 100%;
+    max-width: 420px;
+    border-radius: 15px;
+    height: 500px;
+    margin: 1rem;
+    color: white;
+}
+
+.temp{
+    font-size: 50px;
+}
+
+.s{
+    font-size: 20px;
+}
+
+.display-center{
+     display: flex;
+     justify-content: center;
+    align-items: center; 
+    margin: 0;
+    height: 100vh;  
+}
+
+.tempo{
+    font-size: 50px;
+    margin-right: 2px;
+}
+
+
+.inner{
+   color: white;
+ 
+}
+.box{
+    height: 150px;
+   
+}
+
+
+
+
+
+
+
+
+
+/* 8ac5c4d57ba6a4b3dfcf622700447b1e */
